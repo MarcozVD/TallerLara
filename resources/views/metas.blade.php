@@ -11,7 +11,8 @@
         <h1>Mis Metas</h1>
 
         <ul>
-            <li>Graduarme como ingeniero</li>
+            <li>Graduarme como ingeniero de Sistemas</li>
+            <li>Sacar una especialización en Ciberseguridad</li>
             <li>Ser desarrollador full stack</li>
             <li>Trabajar en una empresa de tecnología</li>
         </ul>

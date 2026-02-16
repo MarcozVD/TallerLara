@@ -12,7 +12,7 @@
 
     <h3>Información General</h3>
     <ul>
-        <li><strong>Nombre:</strong> Marcos</li>
+        <li><strong>Nombre:</strong> Marcos Marcos Valera Daza</li>
         <li><strong>Edad:</strong> 20 años</li>
         <li><strong>Origen:</strong> Colombia</li>
         <li><strong>Estudios:</strong> Ingeniería de Sistemas</li>
