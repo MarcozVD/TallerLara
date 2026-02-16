@@ -6,18 +6,19 @@ Route::get('/', function () {
     return view('welcome');
 });
 
+
 Route::get('/perfil', function () {
     return view('perfil');
-});
+})->name('perfil');
 
-Route::get('/perfil/intereses', function () {
+Route::get('/intereses', function () {
     return view('intereses');
-});
+})->name('intereses');
 
-Route::get('/perfil/habilidades', function () {
+Route::get('/habilidades', function () {
     return view('habilidades');
-});
+})->name('habilidades');
 
-Route::get('/perfil/metas', function () {
+Route::get('/metas', function () {
     return view('metas');
-});
+})->name('metas');  
